@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define N 6
+#define N 67
 void main()
 {
   int i,j,x;
